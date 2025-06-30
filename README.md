@@ -31,6 +31,10 @@ Python — Testes Unitários
 
 Python — Avançado em OOP e FastAPI
 
+Excel - Básico ao Avançado
+
+Delphi - Intermediário
+
 (CURSANDO) - Curso de JavaScript e TypeScript do Básico ao Avançado — JS/TS: JavaScript e TypeScript (Front-End e Back-End) — Node, Express, NoSQL, React, Hooks, Redux, Design Patterns
 
 
