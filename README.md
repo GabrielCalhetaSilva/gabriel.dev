@@ -2,6 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Aprendendo Python, JavaScript e SQL, com maior foco em JS 
+
 🚀 Buscando um estágio na área de desenvolvimento  
 📜 Certificados:
 
