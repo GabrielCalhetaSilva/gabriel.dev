@@ -29,7 +29,7 @@ Python — Testes Unitários
 
 Python — Avançado em OOP e FastAPI
 
-Excel - Básico ao Avançado
+Excel - Intermediário/Avançado
 
 Delphi - Intermediário
 
