@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Gabriel!, deixarei aqui um pouco sobre mim e atualizações dos cursos que fiz e ando fazendo.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Aprendendo Python, JavaScript e SQL, com maior foco em JS 
-
+💻 Aprendendo Python, JavaScript e SQL, com maior foco em JS          
 🚀 Buscando um estágio na área de desenvolvimento  
 📜 Certificados:
 
