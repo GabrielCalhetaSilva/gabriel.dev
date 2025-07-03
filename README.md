@@ -11,7 +11,7 @@ FIAP — Lógica de Programação Base
 
 FIAP — Comunicação Empresarial
 
-Python — Crie a Sua Primeira Aplicação (Curso Alura)
+Python — Crie a Sua Primeira Aplicação
 
 Python — Strings e Regex
 
