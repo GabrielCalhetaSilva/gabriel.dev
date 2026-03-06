@@ -1,8 +1,11 @@
 # 👋 Olá, eu sou o Gabriel!, deixarei aqui um pouco sobre mim e atualizações dos cursos que fiz e ando fazendo.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+
 💻 Possuo conhecimento em JavaScript (Front-End e Back-End), Python, Numpy, Pandas, MongoDB, PowerBI, Machine Learning, SQL, Git e Excel 
+
 🚀 Buscando estágio na área de dados  
+
 📜 Certificados:
 
 FIAP — Matemática Base
